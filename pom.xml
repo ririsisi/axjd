@@ -6,6 +6,7 @@
     <modules>
         <module>axjd-common</module>
         <module>service-base</module>
+        <module>service-core</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
