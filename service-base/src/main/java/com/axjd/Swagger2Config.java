@@ -38,7 +38,7 @@ public class Swagger2Config {
                 .title("安心借贷后台管理系统-API文档")
                 .description("本文描述了安心借贷后台管理系统接口")
                 .version("1.0")
-                .contact(new Contact("risi","http://www.axjd.com","278872032@qq.com"))
+                .contact(new Contact("risi", "https://www.axjd.com","278872032@qq.com"))
                 .build();
     }
 }
