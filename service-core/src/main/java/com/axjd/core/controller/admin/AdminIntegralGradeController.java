@@ -4,7 +4,6 @@ import com.axjd.core.pojo.entity.IntegralGrade;
 import com.axjd.core.service.IntegralGradeService;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiOperation;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
